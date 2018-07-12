@@ -1,0 +1,5 @@
+{
+  "protocol": "https",
+  "instance": "INSTANCE_DOMAIN_NAME",
+  "username": "YOUR_USERNAME"
+}
