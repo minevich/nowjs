@@ -1,5 +1,4 @@
-const readline = require('readline');
-var inquirer = require("inquirer");
+const inquirer = require('inquirer');
 
 const config = require('./config.json');
 const TableAPI = require('./src/table_api');
